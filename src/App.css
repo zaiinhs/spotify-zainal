@@ -7,6 +7,15 @@
   pointer-events: none;
 }
 
+.button-login{
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.button-login:hover{
+  background-color: rgb(23, 182, 2);
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
