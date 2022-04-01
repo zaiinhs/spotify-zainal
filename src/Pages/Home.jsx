@@ -67,7 +67,7 @@ class Home extends Component {
                 {this.state.tracks.map((data) => (
                   <Card
                     key={data.album.id}
-                    imagesUrl={data.album.images[0].url}
+                    imagesUrl={data.album.images[0]?.url}
                     title={data.name}
                     album={data.album.name}
                     artist={data.artists[0].name}
