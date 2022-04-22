@@ -55,6 +55,7 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^8.13.0",
     "msw": "^0.39.2"
   }
 }
