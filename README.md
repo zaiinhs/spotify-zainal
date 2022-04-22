@@ -52,7 +52,7 @@ This is Spotify Generasi Gigih, a React front-end client that communicates with 
 
 If you have any suggestions/problems about the features, please let me know [here](https://github.com/zaiinhs/spotify-zainal/issues).
 
-If you want to try this on https://spotigi.vercel.app/, please let me know your email. Because your email account must be registered in my development dashboard.
+If you want to try this on https://spotify-zainal.vercel.app/, please let me know your email. Because your email account must be registered in my development dashboard.
 
 | Feature         | Description                                                                                                                                                                                                                                                                                                                                                               |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -88,7 +88,7 @@ To get a local copy up and running follow these simple example steps.
    ```
 3. Go to the project directory
    ```sh
-   cd spotify-web-clone
+   cd spotify-zainal
    ```
 4. Install NPM packages
    ```sh
@@ -113,3 +113,5 @@ To get a local copy up and running follow these simple example steps.
 ## Contact
 
 Zainal Abidin - [@zaiinhs](https://www.linkedin.com/in/zaiinhs/)
+
+# Thankyou.
